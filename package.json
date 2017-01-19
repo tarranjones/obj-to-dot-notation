@@ -1,0 +1,36 @@
+{
+  "name": "obj-to-dot-notation",
+  "version": "0.0.1",
+  "description": "Converts an object to dot-notation",
+  "license": "MIT",
+  "repository": "tarranjones/obj-to-dot-notation",
+  "author": {
+    "name": "Tarran Jones",
+    "email": "tarrandavidjones@gmail.com",
+    "url": "tarranjones.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "obj",
+    "object",
+    "to",
+    "convert",
+    "dot",
+    "notation",
+    "dot-notation"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  },
+  "dependencies": {
+    "is-obj": "^1.1.0"
+  }
+}
