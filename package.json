@@ -28,9 +28,9 @@
     "dot-notation"
   ],
   "devDependencies": {
-    "ava": "*"
+    "ava": "^0.17.0"
   },
   "dependencies": {
-    "is-obj": "^1.1.0"
+    "is-obj": "^1.0.1"
   }
 }
