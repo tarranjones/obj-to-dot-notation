@@ -1,5 +1,5 @@
-# obj-to-dot-notation [![Build Status](https://travis-ci.org/tarranjones/is-obj.svg?branch=master)](https://travis-ci.org/tarranjones/obj-to-dot-notation)
-
+# obj-to-dot-notation 
+[![Build Status](https://travis-ci.org/tarranjones/obj-to-dot-notation.svg?branch=master)](https://travis-ci.org/tarranjones/obj-to-dot-notation)
 
 > Converts an object to dot-notation
 
