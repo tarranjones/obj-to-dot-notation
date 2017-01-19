@@ -1,5 +1,6 @@
-# obj-to-dot-notation 
+# obj-to-dot-notation
 [![Build Status](https://travis-ci.org/tarranjones/obj-to-dot-notation.svg?branch=master)](https://travis-ci.org/tarranjones/obj-to-dot-notation)
+[![NPM](https://nodei.co/npm/obj-to-dot-notation.png)](https://nodei.co/npm/obj-to-dot-notation/)
 
 > Converts an object to dot-notation
 
